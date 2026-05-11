@@ -1,0 +1,54 @@
+# Architecture Explanation
+
+## Overview
+This project implements a modern Data Lakehouse architecture using Azure Databricks and PySpark.
+
+The solution follows Medallion Architecture:
+- Landing Layer
+- Bronze Layer
+- Silver Layer
+- Gold Layer
+
+---
+
+## Landing Layer
+Stores raw source files without transformations.
+
+Purpose:
+- Controlled ingestion point
+- Source data preservation
+
+---
+
+## Bronze Layer
+Raw ingestion layer with:
+- Schema enforcement
+- Metadata columns
+- Delta format storage
+
+---
+
+## Silver Layer
+Transformation layer with:
+- Data cleansing
+- Standardization
+- Deduplication
+- Flattening nested JSON structures
+
+---
+
+## Gold Layer
+Business-ready analytical layer with:
+- Fact tables
+- Dimension tables
+- Aggregated datasets
+- BI-ready outputs
+
+---
+
+## Technologies Used
+- Azure Databricks
+- PySpark
+- Delta Lake
+- Unity Catalog
+- Lakeflow Jobs
