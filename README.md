@@ -20,13 +20,13 @@ The project processes Formula 1 datasets and transforms raw data into business-r
 
 ## Full Refresh Architecture
 
-![Full Refresh Architecture](architecture/full-refresh-architecture.png)
+![Full Refresh Architecture](Architecture/Full_Refresh_Architecture.png)
 
 ---
 
 ## Incremental Processing Architecture
 
-![Incremental Processing Architecture](architecture/incremental-processing-architecture.png)
+![Incremental Processing Architecture](Architecture/Incremental_Load_Architecture.png)
 
 ---
 
