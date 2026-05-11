@@ -234,49 +234,32 @@ Databricks Lakeflow Jobs are used for:
 
 ## Unity Catalog
 
-![Unity Catalog](screenshots/unity-catalog.png)
+![Unity Catalog](Screenshots/Unity_catalog/Unity_catalog.png)
 
 ---
 
 ## Databricks Lakeflow Jobs
 
-![Databricks Jobs](screenshots/databricks-jobs.png)
-
----
-
-## Bronze Layer
-
-![Bronze Layer](screenshots/bronze-layer.png)
-
----
-
-## Silver Layer
-
-![Silver Layer](screenshots/silver-layer.png)
-
----
-
-## Gold Layer
-
-![Gold Layer](screenshots/gold-layer.png)
+![Databricks Jobs](Screenshots/Lakeflow_jobs/child_pipeline_overview.png)
 
 ---
 
 ## Incremental Processing
 
-![Incremental Processing](screenshots/incremental-processing.png)
+![Incremental Processing](Screenshots/Notebooks/overview.png)
 
 ---
 
 ## PySpark Notebook
 
-![PySpark Notebook](screenshots/pyspark-notebook.png)
+![PySpark Notebook](Screenshots/Notebooks/View.png)
 
 ---
 
 ## Dashboard Output
 
-![Dashboard Output](screenshots/dashboard-output.png)
+![Dashboard Output](Screenshots/Dashboard/DashBoard_1.png)
+![Dashboard Output](Screenshots/Dashboard/Dashboard_2.png)
 
 ---
 
